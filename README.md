@@ -140,6 +140,7 @@ Huong dan nop bai DSALab
 
 Neu nop bang Pull Request, dat tieu de theo mau:
 [MSSV] - [Ho ten] - Bai tap tuan X
+----
 Ví dụ:
 git clone https://github.com/nguyenvana/DSALab.git
 cd DSALab
