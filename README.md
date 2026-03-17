@@ -123,24 +123,29 @@ make clean  # Xóa file đã build
 
 ### Huong dan nop bai DSALab
 
-```text
-1. Fork repo goc:
+Huong dan nop bai DSALab
+
+1. Vao repo goc:
    https://github.com/CocAgent/DSALab
 
-2. Clone repo fork ve may
+2. Nhan Fork de tao repo rieng
 
-3. Lam bai dung thu muc duoc yeu cau
+3. Clone repo fork ve may
 
-4. Commit day du va dat noi dung commit ro rang
+4. Lam bai dung thu muc duoc yeu cau
 
-5. Push len repo GitHub ca nhan
+5. Day bai len GitHub ca nhan bang cac lenh:
+
+   git add .
+   git commit -m "Hoan thanh bai tap tuan 1"
+   git push origin main
 
 6. Nop bai bang mot trong hai cach:
    - Tao Pull Request ve repo goc
    - Hoac gui link repo fork len he thong hoc tap
 
-Neu nop bang Pull Request, dat tieu de theo mau:
-[MSSV] - [Ho ten] - Bai tap tuan X
+   Neu nop bang Pull Request, dat tieu de theo mau:
+   [MSSV] - [Ho ten] - Bai tap tuan X
 ----
 Ví dụ:
 1. git clone https://github.com/nguyenvana/DSALab.git
